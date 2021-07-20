@@ -10,7 +10,7 @@ body {
   font-size: 18px;
   background: #19a2ae;
   width: 100%;
-  background-image: url("/images/bg-pattern-top.svg"), url("/images/bg-pattern-bottom.svg");
+  background-image: url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
   background-position: left -95px top -23em, right -110px bottom -25em;
   background-repeat: no-repeat;
   background-size: 55%;
